@@ -1,1 +1,1 @@
-#Javascript Algorithms & Puzzles [Solved]
+# Javascript Algorithms & Puzzles [Solved]
